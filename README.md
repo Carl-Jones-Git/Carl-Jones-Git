@@ -1,7 +1,6 @@
-# Hi there! 👋 I'm Carl Jones
+# Hi I'm Carl Jones
 
-## 🎮 Game Engine Developer & Educator
-
+## 🎮 Computer Science Senior Lecturer 
 I'm passionate about creating educational tools for game development and sharing knowledge about real-time graphics programming.
 
 ### 🚀 Current Project: Lightweight Educational Game Engine
@@ -11,12 +10,12 @@ Building a comprehensive C++ game engine with DirectX 11 featuring:
 - Complete go-kart racing game example
 - Educational focus with well-documented code
 
-**[🔗 Check out the Engine](https://github.com/yourusername/your-engine-repo)**
+**[🔗 Check out the Engine](https://github.com/Carl-Jones-Git/GameEngine)**
 
 ### 🛠️ Technologies I Work With
-- **Languages:** C++, HLSL, C#
+- **Languages:** C++, HLSL, GLSL
 - **Graphics APIs:** DirectX 11/12, OpenGL
-- **Game Engines:** Custom engines, Unity, Unreal
+- **Game Engines:** Custom engines, Unreal
 - **Physics:** NVIDIA PhysX
 - **Audio:** FMOD
 - **Tools:** Visual Studio, Git, Blender
@@ -28,12 +27,9 @@ Building a comprehensive C++ game engine with DirectX 11 featuring:
 - 💡 Exploring real-time ray tracing techniques
 
 ### 📫 Get In Touch
-- **Portfolio:** [your-website.com]
 - **LinkedIn:** [Your LinkedIn]
-- **Email:** [your-email@example.com]
+- **Email:** [carl.jones@southwales.ac.uk]
 
-### 📊 GitHub Stats
-![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
 ---
 *"Making game development education accessible through hands-on engine building"*
