@@ -7,7 +7,7 @@ Building a simple C++ game engine with DirectX 11 featuring:
 - Educational focus with well-documented code
 
 **[🔗 Check out the Engine](https://github.com/Carl-Jones-Git/GameEngine)**
-<img src="GameEngine/Resources/Textures/Karting XBoxOne.png" alt="Alt text" width="25%" />
+<img src="GameEngine/Resources/Textures/KartingXBoxOne.png" alt="Alt text" width="25%" />
 
 ### 🛠️ Technologies I Work With
 - **Languages:** C++, HLSL, GLSL
