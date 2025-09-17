@@ -27,7 +27,7 @@ Building a simple C++ game engine with DirectX 11 featuring:
 - 💡 Exploring real-time ray tracing techniques
 
 ### 📫 Get In Touch
-- **LinkedIn:** [Your LinkedIn]
+- **LinkedIn:** [www.linkedin.com/in/carl-jones-90356477]
 - **Email:** [carl.jones@southwales.ac.uk]
 
 
