@@ -9,7 +9,7 @@ Building a simple C++ game engine with DirectX 11 featuring:
 
 <img src="https://github.com/Carl-Jones-Git/GameEngine/blob/main/Resources/Textures/ScreenShot.png" alt="Alt text" width="75%" />
 
-**[🔗 GameEngine Repository Hhre](https://github.com/Carl-Jones-Git/GameEngine)**
+**[🔗 GameEngine Repository Link](https://github.com/Carl-Jones-Git/GameEngine)**
 
 ###  Technologies I Work With
 - **Languages:** C++, HLSL, GLSL
