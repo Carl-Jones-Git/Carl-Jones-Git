@@ -7,7 +7,7 @@ Building a simple C++ game engine with DirectX 11 featuring:
 - Educational focus with well-documented code
 
 
-<img src="https://github.com/Carl-Jones-Git/GameEngine/blob/main/Resources/Textures/ScreenShot.png" alt="Alt text" width="50%" />
+<img src="https://github.com/Carl-Jones-Git/GameEngine/blob/main/Resources/Textures/ScreenShot.png" alt="Alt text" width="75%" />
 
 **[🔗 Check out the Engine](https://github.com/Carl-Jones-Git/GameEngine)**
 
