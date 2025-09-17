@@ -1,7 +1,3 @@
-# Hi I'm Carl Jones
-
-## 🎮 Computer Science Senior Lecturer 
-I'm passionate about computer graphics for game development and sharing knowledge about real-time graphics programming.
 
 ### 🚀 Current Project: Lightweight Educational Game Engine
 Building a simple C++ game engine with DirectX 11 featuring:
