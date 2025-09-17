@@ -6,8 +6,10 @@ Building a simple C++ game engine with DirectX 11 featuring:
 - Complete go-kart racing game example
 - Educational focus with well-documented code
 
-**[🔗 Check out the Engine](https://github.com/Carl-Jones-Git/GameEngine)**
+
 <img src="https://github.com/Carl-Jones-Git/GameEngine/blob/main/Resources/Textures/ScreenShot.png" alt="Alt text" width="25%" />
+
+**[🔗 Check out the Engine](https://github.com/Carl-Jones-Git/GameEngine)**
 
 ### 🛠️ Technologies I Work With
 - **Languages:** C++, HLSL, GLSL
