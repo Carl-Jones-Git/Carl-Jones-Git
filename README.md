@@ -1,5 +1,5 @@
 
-### 🚀 Current Project: Lightweight Educational Game Engine
+###  Current Project: Lightweight Educational Game Engine
 Building a simple C++ game engine with DirectX 11 featuring:
 - Advanced rendering techniques (PBR, shadow mapping, subsurface scattering)
 - Physics simulation with NVIDIA PhysX
